@@ -1,0 +1,15 @@
+D:\RIYO\UDEMY\WPF_APP\wpf_app\simple_calculator\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\RIYO\UDEMY\WPF_APP\wpf_app\simple_calculator\WpfApp1\bin\Debug\WpfApp1.exe
+D:\RIYO\UDEMY\WPF_APP\wpf_app\simple_calculator\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\RIYO\UDEMY\WPF_APP\wpf_app\simple_calculator\WpfApp1\obj\Debug\simple_calculator.csprojAssemblyReference.cache
+D:\RIYO\UDEMY\WPF_APP\wpf_app\simple_calculator\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\RIYO\UDEMY\WPF_APP\wpf_app\simple_calculator\WpfApp1\obj\Debug\App.g.cs
+D:\RIYO\UDEMY\WPF_APP\wpf_app\simple_calculator\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\RIYO\UDEMY\WPF_APP\wpf_app\simple_calculator\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\RIYO\UDEMY\WPF_APP\wpf_app\simple_calculator\WpfApp1\obj\Debug\MainWindow.baml
+D:\RIYO\UDEMY\WPF_APP\wpf_app\simple_calculator\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\RIYO\UDEMY\WPF_APP\wpf_app\simple_calculator\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\RIYO\UDEMY\WPF_APP\wpf_app\simple_calculator\WpfApp1\obj\Debug\simple_calculator.csproj.GenerateResource.cache
+D:\RIYO\UDEMY\WPF_APP\wpf_app\simple_calculator\WpfApp1\obj\Debug\simple_calculator.csproj.CoreCompileInputs.cache
+D:\RIYO\UDEMY\WPF_APP\wpf_app\simple_calculator\WpfApp1\obj\Debug\WpfApp1.exe
+D:\RIYO\UDEMY\WPF_APP\wpf_app\simple_calculator\WpfApp1\obj\Debug\WpfApp1.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox Name="textBox" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Height="48" Margin="319,160,0,0" TextWrapping="Wrap" Text="?" VerticalAlignment="Top" Width="150" KeyDown="TextBox_KeyDown"/>
+        <Label Name="labelRemaining" Content="Remaining Live = 10" HorizontalContentAlignment="Center" Foreground="Green" FontSize="15" Margin="319,78,324.6,0" VerticalAlignment="Top" Height="46" Width="150"/>
+        <Label Name="labelFrom" Content="0" HorizontalContentAlignment="Center" Margin="134,162,509.6,0" VerticalAlignment="Top" FontSize="20" Height="46" Width="150"/>
+        <Label Name="labelTo" Content="100" HorizontalContentAlignment="Center" Margin="523,160,120.6,0" VerticalAlignment="Top" FontSize="20" Height="46" Width="150"/>
+
+    </Grid>
+</Window>

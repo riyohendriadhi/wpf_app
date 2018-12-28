@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Calculator" Height="450" Width="700">
+    <Grid>
+        <Label Name="lblNumber1" Content="First Number" FontSize="20" Margin="6,10,428.6,371"></Label>
+        <TextBox    Name="txtNumber1" Margin="193,10,272.6,375" />
+        <Label Name="lblNumber2" Content="Second Number" FontSize="20" Margin="6,55,498.6,326"/>
+        <TextBox    Name="txtNumber2" Margin="193,55,272.6,330" />
+        <Button Margin="435,31,165.6,350" Content="Compute" Click="Button_Click"/>
+        <TextBox    Name="txtNumber2_Copy" Margin="549,35,8.6,350" />
+        <Label Name="lblSumResult" Content="" FontSize="20" Margin="162,112,272.6,269" Background="#FF5A8BED"/>
+        <Label Name="lblMinResult" Content="" FontSize="20" Margin="162,158,272.6,223" Background="#FF5A8BED"/>
+        <Label Name="lblMulResult" Content="" FontSize="20" Margin="162,207,272.6,174" Background="#FF5A8BED"/>
+        <Label Name="lblDivResult" Content="" FontSize="20" Margin="162,256,272.6,125" Background="#FF5A8BED"/>
+    </Grid>
+</Window>
